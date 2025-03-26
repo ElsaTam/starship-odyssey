@@ -1,0 +1,33 @@
+---
+author:
+  - "[[The Collective Endeavour]]"
+created: Mar 19, 2025 11:17 am
+modified: Mar 19, 2025 10:15 pm
+source: https://collective-endeavour.com/articles/buyingart/
+tags: [clippings, commissioningArt]
+title: Buying art - The Collective Endeavour
+---
+
+# Buying Art for TTRPG Books
+
+About the author: I'm Jon Hodgson, a UK freelance artist. I work primarily for Games Workshop on their Warhammer Historical line, and I do stuff for Wizards on D&D. But also I try to keep my hand in with the indies - I did a bunch of stuff for Dust Devils, and I've recently done a cover for Ron Edwards' Spione project. I live in Falkirk.
+
+I thought people would be interesting in hearing my thoughts on this issue of buying art from the freelance artist's perspective.
+
+When working with the bigger publishers its generally a case of you take what you're offered. They have standard rates, their budgets are all worked out, they know what they want, and there's not much room for maneuver.
+
+With the smaller guys things can be a bit more exciting. I use a totally unfair charging system, which basically boils down to whether I like your game, or you, enough to work on it for cheap. I charge GW £750 for covers, but I charged Matt Snyder $80 for the Dust Devils cover and revised it for free, because I like the game, and I like Matt. I'll burn a few midnight hours to work on something I really like. Basically I have to be convinced by whatever motivator that I want to do the work outside of regular work hours.
+
+Some thoughts then on what you can offer freelancers if you choose to go that route. None of this is earth-shattering stuff, and clearly I have a huge bias at work, but hey, its a start:
+
+1. Just offering what you can afford is always a good start. Just be totally up front. Say "I don't have much money, but I wonder if you'd take a look at our game and consider making some art for £X?" The worst the artist can say is no.
+2. Hire UK artists. Getting paid in dollars sucks royally right now. Dollars are not worth much at the moment, so getting paid in pounds is good! You may be able to attract talent with your Sterling.
+3. Consider your payment schedule. The faster you pay the happier your artist is to work for you. I don't really like taking all the money up front - what if I spend it and then break my arm? But half up front is a nice gesture. Monte Cook apparently pays an amount initially, an amount on receipt of sketches, and then an amount when he gets his finals. That's very popular in freelance circles.
+4. Consider the rights you need, rather than what you want. Do you really need Work For Hire, like a lawyer will advise you to get? After some 10 years in freelance art I own precisely one batch of art that i've made commercially - the Dust Devils work. The rest is publisher owned. That actually makes me feel quite sad. Be realistic - are you really going to print the art on lunchboxes, option film rights, make miniatures based on the property? Really? That's what work for hire is for. Fair enough that Games Workshop want it - they will actually use it to make money. If you're don't have plans to use the work beyond that one publication, buy first rights. But don't use that to get a discount - use it as a perk. Let the artist resell the work.
+5. Don't bullshit. Doing work on a small rpg does not offer exposure, fame, or much of anything. A bit of practice and a few quid is really what it offers. The chance to enjoy working in a small friendly team, and to make a real difference to the product. Be realistic about your likely sales too. Honestly, some of the pompous emails I receive graciously offering me the chance to work for peanuts on books I know darned well won't sell 100 copies… one the other day asked me to pay for the rulebooks. It beggars belief.
+6. Consider collaboration, rather than straight up work for hire. Just as Contested Ground have done. There's a lot to be said for giving your team a slice of the pie. Its very motivating, and if its well thought out you can maintain your own product identity, and your own company, whilst still sharing the properties you work on with the creators. Working on George's Children I hope to make one of the nicest looking small press books there is, and I'm not getting a cent for it (all proceeds will be going to a children's charity) but the pay off is that I will OWN it, and I have creative freedom. Which leads nicely to:
+7. Offer creative freedom. If I were to be sent a manuscript, and the freedom to illustrate it however I wished - man I'd be on that like a fat boy on cake. Particularly if its a cool game. I totally get where Paul is coming from in CGS. That's a really nice place to be.
+8. Offer long deadlines.
+9. Just be decent generally. Don't ask for a million reworks when you're paying $25 an image. Send your artists a comp book. Send them 3 books, you know? Talk about them and what a great job they did on line - that's actually exposure. Remember any deal is supposed to be mutually beneficial - whilst you are nominally in charge of the art direction, you're not in charge of the artist as a person. You're not doing someone a favour as such - or rather you shouldn't be - if their work is worth printing its worth respecting them as an equal. It feels weird to have to even say that, but you do sometimes get treated like an idiot by publishers.
+10. Ask the artist if they have existing pictures they can sell you. See here?: <http://jonhodgson.deviantart.com/> I own all of that work and would happily let it be used on small press stuff very cheaply. Especially if it's paid up in cash over a pint at Conpulsion for example. ;) I have a huge back catalogue of old practice images that eventually I want to get on line somewhere, available for purchase cheaply. Less stock art (which I think is harmful for an artist's brand to offer) more second rights for sale kind of thing.
+11. Ok, the "here's £X, do what you think that's worth" method… Now I have a small issue with that… it really puts emotional pressure on your artists to provide more than the budget is worth, so that they don't look mean. Its a total abdication of responsibility for the budget. And hey sure, you can spin it the other way, that really you're offering the artist total freedom. But don't tell me you're not hoping to get a certain amount for your money. And maybe a little bit more if you're lucky? And I'm not entirely sure that's fair, when you're in a freelance situation. I've worked under that system, and maybe its just me, but I didn't really like it. It just feels awkward.
