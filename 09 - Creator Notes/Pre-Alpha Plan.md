@@ -1,6 +1,6 @@
 ---
 created: Mar 20, 2025 7:47 pm
-modified: Mar 28, 2025 9:53 am
+modified: Mar 28, 2025 1:23 pm
 ---
 
 # Pre-Alpha
@@ -74,7 +74,7 @@ minLevel: 2
 > Players can find their place in the world.
 > GMs understand the broad strokes.
 
-### ⚪Technology Level
+### ⚪ Technology Level
 
 ### ⚪ Magic Level
 
