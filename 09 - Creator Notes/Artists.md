@@ -1,6 +1,6 @@
 ---
 created: Mar 25, 2025 8:02 am
-modified: Mar 28, 2025 12:51 pm
+modified: Mar 28, 2025 1:11 pm
 ---
 
 # Potential Artists
@@ -18,7 +18,7 @@ modified: Mar 28, 2025 12:51 pm
 - Large 1bit landscape ~$190
 - Commercial use?
 
-# [ekvitki](https://vgen.co/ekvitki)
+## [ekvitki](https://vgen.co/ekvitki)
 
 - Pixel art of cosmic landscapes
 - Large scene $250
@@ -29,4 +29,5 @@ modified: Mar 28, 2025 12:51 pm
 ## [Kaya's Kosmos](https://bsky.app/profile/kayas-kosmos.bsky.social)
 
  - Solarpunk / flowerpunk artist
+ - Great creatures
  - Email for details
