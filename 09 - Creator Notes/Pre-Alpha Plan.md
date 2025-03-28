@@ -1,6 +1,6 @@
 ---
 created: Mar 20, 2025 7:47 pm
-modified: Mar 25, 2025 9:09 am
+modified: Mar 28, 2025 9:53 am
 ---
 
 # Pre-Alpha
@@ -32,7 +32,6 @@ minLevel: 2
 
 - [x] Read [[PbtA Inspired Game Design]]
 - [x] Read [[PbtA Apocalypse World Walkthrough]]
-- [ ] Write paragraph about what the characters are [[Finding Out]]
 - [x] Write short blurb about what [[Basic Moves]] are 
 - [ ] Read [[PbtA Moves in the Context of Play]]
 - [ ] Read [[PbtA Moves Drafting Process]]
@@ -75,9 +74,9 @@ minLevel: 2
 > Players can find their place in the world.
 > GMs understand the broad strokes.
 
-### ⚪Technology
+### ⚪Technology Level
 
-### ⚪ Magic
+### ⚪ Magic Level
 
 ### ⚪ Playbooks Descriptions
 
@@ -85,7 +84,7 @@ minLevel: 2
 
 - [ ] Read [[Cultural Worldbuilding]]
 
-### ⚪ Sectors
+### ⚪ Sectors of the Ship
 
 ### ⚪ Important NPCs
 

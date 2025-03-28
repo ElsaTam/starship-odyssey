@@ -1,7 +1,7 @@
 ---
 author: 
 created: Mar 21, 2025 2:05 pm
-modified: Mar 21, 2025 2:05 pm
+modified: Mar 26, 2025 11:18 am
 published: 2020-08-03
 source: https://lumpley.games/2020/07/12/powered-by-the-apocalypse-part-5/
 tags: [clippings, PbtA]
@@ -20,13 +20,9 @@ Here in Part 5, I’m taking a quick aside to talk about some different ways tha
 
 Apocalypse World offers a powerful, flexible framework you can use to outline, draft, and potentially finish your own roleplaying games. Dozens of creators, both experienced designers and first-timers, have used it with great success, and you can too. It’s not a game system as such, it’s an approach to game system design. It’s easy, and it’s a reliable way to get your creative vision quickly into a playable form.
 
-# Reminder: The Goal is to Create a Playable Outline
+## Reminder: The Goal is to Create a Playable Outline
 
-![Goal: Create a Playable Outline
-Cycle: Outline, Play & Revise, Full Draft
-- Game design means iteration.
-- The first step is to create something you can try.
-- Is PbtA your final goal? Could be, could be not.](<https://lumpley.games/wp-content/uploads/2019/10/PbtA-2017-07-08-3.jpg>)
+![Goal: Create a Playable Outline](<https://lumpley.games/wp-content/uploads/2019/10/PbtA-2017-07-08-3.jpg>)
 
 The process of game design for me is intensely iterative: a first stab, then play & revise, play & revise, play & revise. Eventually, after enough iterative cycles, I can make a full draft. Then comes more play and revision as I take the game public, and only once all of those cycles are done do I go on to finish the game for release.
 
@@ -36,7 +32,7 @@ I want to emphasize and re-emphasize: maybe, at the end of the iterative process
 
 My goal is to get you into the iterative cycle. Whatever comes out of it, is up to you.
 
-# Moves in the Conversation
+## Moves in the Conversation
 
 ![3 smiley faces in conversation.](https://lumpley.games/wp-content/uploads/2020/03/PbtA-pt-2-3-1024x576.jpg)
 
@@ -48,7 +44,7 @@ Here I’m only going to talk about moves where you roll or otherwise make choic
 
 I have two angles I want to take on moves. The first is, how does the move fit into the conversation of play?
 
-# 1\. Actions, Checks, & Saves
+## 1\. Actions, Checks, & Saves
 
 Here are some example moves from a game that I’m not working on, I’m just making them up off the top of my head as examples. It’s some kind of D&Desque adventure and monster fighting game, and these are basic moves:
 
@@ -114,7 +110,7 @@ There aren’t many of these in Apocalypse World. The closest are, for instance,
 > 
 > AW:Burned Over: No One
 
-# 2\. Fictional & Nonfictional Triggers
+## 2\. Fictional & Nonfictional Triggers
 
 The second angle I want to take on moves is, what triggers the move, a fictional event or a nonfictional one?
 
@@ -162,7 +158,7 @@ And of course here’s an example of a move with no fictional trigger at all:
 
 This move has one overall nonfictional trigger, *at the beginning of the session*, and then nonfictional triggers for its effects during the session, *spend your hold*.
 
-# 3\. Mix & Match, or…?
+## 3\. Mix & Match, or…?
 
 Apocalypse World has moves with fictional triggers you have to watch and wait for, moves with fictional triggers you declare yourself, and moves with no fictional triggers at all.
 
@@ -212,7 +208,7 @@ When you have your character reach out to someone in compassion, the first thing
 
 If you find yourself designing a game with only watch-for-it fictional triggers, or with mostly “save” type moves, or with a whole bunch of moves that the GM calls for instead of the player, don’t flinch, hesitate, or stall. Your game knows what it needs.
 
-# And Remember…
+## And Remember…
 
 ![Goal: Create a Playable Outline
 Cycle: Outline, Play & Revise, Full Draft
@@ -220,7 +216,7 @@ Cycle: Outline, Play & Revise, Full Draft
 - The first step is to create something you can try.
 - Is PbtA your final goal? Could be, could be not.](<https://lumpley.games/wp-content/uploads/2020/03/PbtA-2017-07-08-3.jpg>)
 
-# Thanks for Reading
+## Thanks for Reading
 
 **Past Installments:**
 

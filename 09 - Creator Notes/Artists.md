@@ -1,6 +1,6 @@
 ---
 created: Mar 25, 2025 8:02 am
-modified: Mar 25, 2025 8:13 am
+modified: Mar 28, 2025 12:51 pm
 ---
 
 # Potential Artists
@@ -25,3 +25,8 @@ modified: Mar 25, 2025 8:13 am
 - 50% upfront
 - No figures
 - Commercial use no extra charge
+
+## [Kaya's Kosmos](https://bsky.app/profile/kayas-kosmos.bsky.social)
+
+ - Solarpunk / flowerpunk artist
+ - Email for details
