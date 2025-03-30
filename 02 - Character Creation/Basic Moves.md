@@ -1,6 +1,6 @@
 ---
 created: Mar 21, 2025 8:04 am
-modified: Mar 24, 2025 6:59 pm
+modified: Mar 30, 2025 1:47 pm
 ---
 
 # Basic Moves
@@ -33,7 +33,13 @@ On a 6-, your attempt to disrupt the known conventions fails and upsets powerful
 
 ### **Make A Statement** ( +Expressive )
 
-### **Manipulate Technology** ( +Scientific )
+### **Use Technology** ( +Scientific )
+
+To utilize hardware or software to resolve a challenge, name aloud FICTION FIRST. Roll 2d6 + Scientific.
+
+On a 10+, you successfully use the tools available to you. 
+On a 7 to 9, your solution works, but it's temporary, renders the materials unusable, or attracts unwanted attention.
+On a 6-, your attempt to manipulate tech fails and NEGATIVE OUTCOME.
 
 ### **Understand A System** ( +Scientific )
 
