@@ -1,6 +1,6 @@
 ---
 created: Mar 21, 2025 8:04 am
-modified: Mar 30, 2025 1:47 pm
+modified: Mar 30, 2025 1:56 pm
 ---
 
 # Basic Moves
@@ -11,7 +11,7 @@ In *Powered by the Apocalypse* games, basic moves are actions that any player ca
 
 Remember, this game is fiction-first, meaning the experience is richer if you describe what you intend to do, not just the move name. Likewise, the GM will explain how you succeeded (or failed) in terms of the setting.
 
-For any move, you'll describe what you do, then say what move you intend trigger. Then you'll roll two six-sided die (often shortened as 2d6) and add the relevant [[Stats|stat]]. A 10+ is a success. 7 to 9 means a partial success, which your GM will describe; Maybe you succeed, but there are unintended consequences. On a 6-, you failed, which your GM will describe as well.
+For any move, you'll describe what you do, then say what move you intend trigger. Then you'll roll two six-sided die (often shortened as 2d6) and add the relevant [[Stats|stat]]. A 10+ is a success. 7 to 9 means a partial success; Maybe you succeed, but there are unintended consequences. On a 6-, you failed outright, and something negative will happen as a result.
 
 ## Basic Moves in Starship Odyssey
 
