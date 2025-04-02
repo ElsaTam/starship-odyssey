@@ -1,0 +1,203 @@
+{
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "color": "1",
+      "height": 1360,
+      "id": "67669ad06cca88fc",
+      "label": "Backlog",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 300,
+      "x": -1300,
+      "y": -920
+    },
+    {
+      "color": "2",
+      "height": 1000,
+      "id": "9d02b0f1433572c3",
+      "label": "To Do",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 300,
+      "x": -940,
+      "y": -920
+    },
+    {
+      "color": "3",
+      "height": 1000,
+      "id": "60e1cbfca7e9b7ce",
+      "label": "In Progress",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 300,
+      "x": -620,
+      "y": -920
+    },
+    {
+      "color": "4",
+      "height": 1000,
+      "id": "a0d070930e864c4b",
+      "label": "Done",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 300,
+      "x": -300,
+      "y": -920
+    },
+    {
+      "color": "5",
+      "height": 300,
+      "id": "8182f388971c76a6",
+      "label": "Waiting",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 940,
+      "x": -940,
+      "y": 140
+    },
+    {
+      "height": 140,
+      "id": "ca632337883e3f48",
+      "styleAttributes": {
+      },
+      "text": "## 🔵 Create printables for character creation mechanics\n\nChase Technomancer",
+      "type": "text",
+      "width": 260,
+      "x": -920,
+      "y": -900
+    },
+    {
+      "height": 120,
+      "id": "84fa78c0ac74141c",
+      "styleAttributes": {
+      },
+      "text": "## Create logo, favicon, social media icons\n\nEuan",
+      "type": "text",
+      "width": 260,
+      "x": -1280,
+      "y": -900
+    },
+    {
+      "height": 120,
+      "id": "4395133cc71e41eb",
+      "styleAttributes": {
+      },
+      "text": "## Sketch basic views of the different ship sectors\n\nPsymon",
+      "type": "text",
+      "width": 260,
+      "x": -1280,
+      "y": -760
+    },
+    {
+      "color": "3",
+      "height": 80,
+      "id": "3e82de6a76cc76a2",
+      "styleAttributes": {
+        "border": "invisible",
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "# Starship Odyssey Project Management",
+      "type": "text",
+      "width": 1700,
+      "x": -1700,
+      "y": -1060
+    },
+    {
+      "file": "Starship Odyssey/09 - Creator Notes/Pre-Alpha Plan.md",
+      "height": 920,
+      "id": "e16bafc1e6275c39",
+      "styleAttributes": {
+        "border": null
+      },
+      "type": "file",
+      "width": 380,
+      "x": -1700,
+      "y": -920
+    },
+    {
+      "height": 120,
+      "id": "e5ae8e0ea84ad9a0",
+      "styleAttributes": {
+      },
+      "text": "## Create promotional graphic\nEuan",
+      "type": "text",
+      "width": 260,
+      "x": -600,
+      "y": -900
+    },
+    {
+      "height": 120,
+      "id": "cea193f6458867a0",
+      "styleAttributes": {
+      },
+      "text": "## 🟣 Set up and connect Stripe to website \n\nChase Technomancer",
+      "type": "text",
+      "width": 260,
+      "x": -920,
+      "y": -740
+    },
+    {
+      "height": 100,
+      "id": "6f8bc242b49c34d9",
+      "styleAttributes": {
+      },
+      "text": "## 🟣 Set up email for project\n\n\nChase Technomancer",
+      "type": "text",
+      "width": 260,
+      "x": -920,
+      "y": -600
+    },
+    {
+      "height": 120,
+      "id": "f5bb5e8f7fed4116",
+      "styleAttributes": {
+      },
+      "text": "## 🟣 Update social media with website and email\n\nChase Technomancer",
+      "type": "text",
+      "width": 260,
+      "x": -920,
+      "y": -480
+    },
+    {
+      "height": 140,
+      "id": "7290f960291c91f1",
+      "styleAttributes": {
+      },
+      "text": "## Write 1 - 3 sentence descriptions of different ship sectors\nPsymon\n",
+      "type": "text",
+      "width": 260,
+      "x": -600,
+      "y": -760
+    },
+    {
+      "height": 120,
+      "id": "a4bec6a6bfe74179",
+      "styleAttributes": {
+      },
+      "text": "## 🟣 Buy and set up domain for website\n\nChase Technomancer",
+      "type": "text",
+      "width": 260,
+      "x": -600,
+      "y": -600
+    },
+    {
+      "height": 140,
+      "id": "51e3be42b08082e7",
+      "styleAttributes": {
+      },
+      "text": "## 🔵 Create playtestable character creation mechanics\n\nChase Technomancer",
+      "type": "text",
+      "width": 260,
+      "x": -600,
+      "y": -460
+    }
+  ]
+}

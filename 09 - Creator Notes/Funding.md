@@ -1,7 +1,7 @@
 ---
 aliases: [funding Starship Odyssey, making money]
 created: Mar 20, 2025 10:49 am
-modified: Mar 25, 2025 7:06 am
+modified: Mar 31, 2025 4:25 pm
 ---
 
 # Funding
@@ -21,7 +21,7 @@ I may be interested in **Patreon alternatives** where I have better control over
 
 When the project is pretty complete, I **might someday maybe pitch an indie publisher** for licensing or even co-development, but that's pretty far off and aspirational.
 
-In the meantime, I'll **community-build slow and steady** on Reddit, network in TTRPG spaces, possibly open a Discord server, find playtesters, and other community building efforts.
+In the meantime, I'll **community-build slow and steady** on Reddit, network in TTRPG spaces, open a Discord server, find playtesters, and other community building efforts.
 
 Again, I'm not looking to make a profit, just hoping to pay for some expenses and get people playing my game.
 
