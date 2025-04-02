@@ -1,6 +1,6 @@
 ---
 created: Apr 02, 2025 4:29 pm
-modified: Apr 02, 2025 4:56 pm
+modified: Apr 02, 2025 6:57 pm
 ---
 
 # Starship Odyssey Development Note
@@ -9,7 +9,7 @@ Welcome to the Starship Odyssey. This readme should give you information on how 
 
 ## Tag Explanations
 
-For this project, writing status is tracked in Markdown files via tags like `needsWriting` and `needsRevision`. Only open GitHub issues if you want to assign something, ask for help, or track bigger changes.
+For this project, writing status is tracked in the Markdown files via tags in combination with GitHub Issues. Here's an explanation of each of the tags.
 
 `needsWriting` : The note or portions of it include **significant gaps** that are not at all written or just bullet points.
 
@@ -44,7 +44,7 @@ Use whatever Markdown editor you're comfortable with: [Typora](https://typora.io
 
 ### 3. Make Your Changes
 
-Write away. Use the [[README#Tag Explanations|tagging system]] mentioned above to indicate the current status of a file.
+Write away. Use the tagging system described above to indicate the current status of a file.
 
 Keep your edits focused and super clear. If you're fixing a small thing, that’s cool. If you're doing a big rewrite, keep track of what you did so you can drop a comment in the pull request so we know what changed and why.
 
