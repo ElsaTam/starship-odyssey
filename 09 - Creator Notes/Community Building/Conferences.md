@@ -1,6 +1,6 @@
 ---
 created: Mar 28, 2025 5:52 pm
-modified: Mar 28, 2025 9:09 pm
+modified: Apr 02, 2025 10:40 am
 ---
 
 # Conferences
@@ -8,7 +8,7 @@ modified: Mar 28, 2025 9:09 pm
 ## [Solarpunk Conference](https://www.solarpunkconference.com/) - (Virtual)
 
 June 21
-==CFP: March 31==
+CFP: March 31
 
 ## [GenCon](https://www.gencon.com/indy) - Indianapolis
 

@@ -1,10 +1,13 @@
 ---
 aliases: [funding Starship Odyssey, making money]
 created: Mar 20, 2025 10:49 am
-modified: Mar 31, 2025 4:25 pm
+modified: Apr 02, 2025 10:56 am
+tags: [needsRevision]
 ---
 
 # Funding
+
+NEEDS REVISION
 
 > [!info]+ **TLDR:**
 > I want to publish my campaign setting / PbtA-inspired game system, Starship Odyssey, as a .pdf, but there are plenty of associated expenses. Instead of paying purely out of my pocket or starting a stressful Kickstarter campaign, I’m going to start a Patreon (or similar) and begin building a community around the project. Speculation, personal experiences, and comments on this plan all accepted and encouraged.

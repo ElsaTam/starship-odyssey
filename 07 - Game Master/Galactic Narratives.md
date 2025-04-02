@@ -1,10 +1,13 @@
 ---
 aliases: [Galactic Narrative, Global Narrative, Global Narratives]
 created: Mar 18, 2025 09:22 pm
-modified: Mar 19, 2025 8:10 am
+modified: Apr 02, 2025 10:55 am
+tags: [needsWriting]
 ---
 
 # Galactic Narratives
+
+NEEDS TO BE WRITTEN
 
 ## The Last of Humanity
 

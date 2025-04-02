@@ -1,7 +1,8 @@
 ---
 aliases: [Apollonian-Dionysian, Core Theme, Theme]
 created: Mar 18, 2025 7:57 pm
-modified: Apr 01, 2025 4:14 pm
+modified: Apr 02, 2025 10:55 am
+tags: [firstDraftComplete]
 ---
 
 # North Star

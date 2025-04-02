@@ -1,6 +1,7 @@
 ---
 created: Apr 02, 2025 10:15 am
-modified: Apr 02, 2025 10:21 am
+modified: Apr 02, 2025 10:54 am
+tags: [needsDetail, needsRevision]
 ---
 
 # Lotus (substance)

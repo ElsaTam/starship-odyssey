@@ -1,9 +1,12 @@
 ---
 created: Mar 21, 2025 8:04 am
-modified: Mar 30, 2025 1:56 pm
+modified: Apr 02, 2025 10:54 am
+tags: [needsWriting]
 ---
 
 # Basic Moves
+
+NEED TO BE FULLY WRITTEN
 
 ## What Are Basic Moves
 

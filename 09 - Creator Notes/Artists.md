@@ -1,9 +1,11 @@
 ---
 created: Mar 25, 2025 8:02 am
-modified: Mar 28, 2025 1:11 pm
+modified: Apr 02, 2025 10:41 am
 ---
 
 # Potential Artists
+
+CURRENTLY ONLY PURSUING ARTISTS WHO WILL CONTRIBUTE ON A VOLUNTEER BASIS
 
 ## [Tujiux](https://artistree.io/tujiux)
 

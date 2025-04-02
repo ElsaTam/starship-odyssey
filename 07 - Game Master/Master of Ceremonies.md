@@ -1,11 +1,13 @@
 ---
 aliases: [GM Agenda, GM Moves, GM Principles]
 created: Mar 24, 2025 11:43 am
-modified: Mar 25, 2025 6:49 am
+modified: Apr 02, 2025 10:55 am
+tags: [needsWriting]
 ---
 
 # Master of Ceremonies
 
+NEED TO BE WRITTEN
 ```table-of-contents
 minLevel: 2
 ```

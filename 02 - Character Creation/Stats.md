@@ -1,7 +1,8 @@
 ---
 aliases: [stat, Stat]
 created: Mar 21, 2025 12:34 pm
-modified: Mar 24, 2025 5:53 pm
+modified: Apr 02, 2025 10:55 am
+tags: [firstDraftComplete]
 ---
 
 # Stats
