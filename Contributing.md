@@ -87,4 +87,4 @@ I’ll read through your PR, leave any comments if needed, and then merge it int
 
 ## Conclusion
 
-Let me know in Discord if you'd like a `Contributing.md` file version of this too or a GitHub template for new pull requests.
+Let me know in Discord if you'd like a GitHub template for new pull requests.
