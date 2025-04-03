@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "53279d60a84e2ccc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db49ccb82f668a79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Sectors/Midbrain Sector/Aeolian Spires.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aeolian Spires"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5cd81958dbfe733b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6a4d5cdcbb80e19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "419ffa6742dc45bc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "9fdd9d31d84766b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5237f7a4b2db3102",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5
+  },
+  "right": {
+    "id": "8cd5f95cf79abe09",
+    "type": "split",
+    "children": [
+      {
+        "id": "88072321ff6dc2a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3773c3f0e64d3ba3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Starship Odyssey/09 - Creator Notes/Miscellaneous/Introduction Skills-Based.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Introduction Skills-Based"
+            }
+          },
+          {
+            "id": "edeb9ab0d78de126",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a27ed4c25bd7c91b",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "2db67705dbbbcb58",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Starship Odyssey/09 - Creator Notes/Playtesters.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Playtesters"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Create new canvas": false,
+      "publish:Publish changes...": false,
+      "omnisearch:Omnisearch": false,
+      "slides-extended:Show slide preview": false,
+      "callout-manager:Insert Callout": false,
+      "templater-obsidian:Templater": false,
+      "repeat-plugin:Repeat due notes": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "db49ccb82f668a79",
+  "lastOpenFiles": [
+    "04 - Sectors/Midbrain Sector/The Imaginarium.md",
+    "04 - Sectors/Midbrain Sector/Aeolian Spires.md",
+    "04 - Sectors/Midbrain Sector/The Aether.md",
+    "Pasted image 20250403161735.png",
+    "02 - Character Creation/Species/Zypherians.md",
+    "09 - Creator Notes/Community Building/Blog/Content Grid Technique.md",
+    "09 - Creator Notes/Community Building/Blog/Blog.canvas",
+    "08 - Utilities/08 - Utilities.md",
+    "08 - Utilities/Attachments/Photos/HD34989Spitzer.jpg",
+    "08 - Utilities/Attachments/Photos/Gelarites Character Sheet.png",
+    "08 - Utilities/Attachments/Photos/Blurb Image Small.png",
+    "08 - Utilities/Attachments/Photos/Blurb Image.png",
+    "04 - Sectors/Forebrain Sector/Lethe Vault.md",
+    "Starship Odyssey/09 - Creator Notes/Elevator Pitch.md",
+    "Starship Odyssey/09 - Creator Notes/One Year Plan.md",
+    "Starship Odyssey/09 - Creator Notes/Funding.md",
+    "Starship Odyssey/Contributing.md",
+    "Starship Odyssey/09 - Creator Notes/Artists.md",
+    "Starship Odyssey/README.md",
+    "Starship Odyssey/01 - Setting Information/Lotus (substance).md",
+    "Starship Odyssey/02 - Character Creation/Species/Zypherians.md",
+    "Starship Odyssey/02 - Character Creation/Species/Voraxoids.md",
+    "Starship Odyssey/02 - Character Creation/Basic Moves.md",
+    "Starship Odyssey/02 - Character Creation/Stats.md",
+    "Starship Odyssey/06 - Lore & History/Basic History.md",
+    "Starship Odyssey/09 - Creator Notes/Resources/Articles/Agile Worldbuilding Method.md",
+    "Starship Odyssey/08 - Utilities/Attachments/Photos/Blurb Image.png",
+    "Starship Odyssey/09 - Creator Notes/Resources/Articles/Elevator Pitch for Setting.md",
+    "Starship Odyssey/09 - Creator Notes/Resources/Articles/Cultural Worldbuilding.md",
+    "Starship Odyssey/09 - Creator Notes/Resources/Articles/Solarpunk RPG Factions Draft.md",
+    "Starship Odyssey/09 - Creator Notes/Resources/Articles/PWYW & POD Advice from Kevin Crawford.md",
+    "Starship Odyssey/09 - Creator Notes/Resources/Articles/PbtA Playbooks.md",
+    "Starship Odyssey/09 - Creator Notes/Resources/Articles/PbtA Philosophy & Foundation.md",
+    "Starship Odyssey/09 - Creator Notes/Resources/Files/Apocalypse World Playbooks & GM Guidelines.pdf",
+    "Starship Odyssey/09 - Creator Notes/Resources/Files",
+    "Starship Odyssey/09 - Creator Notes/Resources/Articles",
+    "Starship Odyssey/08 - Utilities/Attachments/Photos/Reddit Banner.png",
+    "Starship Odyssey/08 - Utilities/Attachments/Photos/Gelarites Character Sheet.png",
+    "Starship Odyssey/08 - Utilities/Attachments/Photos/Blurb Image Small.png",
+    "Starship Odyssey/08 - Utilities/Attachments/Files",
+    "Starship Odyssey/08 - Utilities/Attachments/Photos",
+    "Starship Odyssey/Starship Odyssey.canvas",
+    "Starship Odyssey/09 - Creator Notes/Community Building/Blog/Blog.canvas",
+    "Pasted image 20250402203119.png",
+    "Starship Odyssey/04 - Sectors/Midbrain Sector",
+    "Starship Odyssey/04 - Sectors/Forebrain Sector",
+    "Starship Odyssey/Starship Odyssey (609403).canvas",
+    "Business/Writing/Content Grid.canvas",
+    "Clippings",
+    "Starship Odyssey/09 - Creator Notes/Community Building/Blog",
+    "Starship Odyssey/09 - Creator Notes/Community Building",
+    "Starship Odyssey/09 - Creator Notes/Miscellaneous/Blog Posts.canvas",
+    "Untitled.canvas"
+  ]
+}

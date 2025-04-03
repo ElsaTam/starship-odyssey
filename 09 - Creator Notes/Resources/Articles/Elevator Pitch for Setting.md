@@ -2,14 +2,14 @@
 author:
   - World Anvil
 created: Mar 23, 2025 12:58 pm
-modified: Apr 03, 2025 12:59 pm
+modified: Apr 03, 2025 1:09 pm
 published: 2022-11-11
 source: https://blog.worldanvil.com/worldbuilding/how-to-write-an-elevator-pitch-for-your-world/
 tags: [clippings, marketing]
 title: How to write an elevator pitch for your world!
 ---
 
-# [How to Write an Elevator Pitch for Your World](https://blog.worldanvil.com/worldbuilding/how-to-write-an-elevator-pitch-for-your-world/)
+# *****[How to Write an Elevator Pitch for Your World](https://blog.worldanvil.com/worldbuilding/how-to-write-an-elevator-pitch-for-your-world/)
 
 Elevator pitches—a concise description of an entire world in about 30 seconds. That’s the time it takes to get from the ground floor to the… say the fifth—ding! But elevator pitches for world settings need special care. After all, a world setting is a BIG thing to convey in such a small time frame! So, from the opening sentence to the aspirational moment, I’ll take you through putting together the most kick-ass elevator pitch for your RPG campaign setting, novel series world, or your [World Anvil page](http://www.worldanvil.com/)!
 

@@ -1,19 +1,18 @@
 ---
 created: Mar 23, 2025 12:26 pm
-modified: Apr 02, 2025 10:56 am
+modified: Apr 03, 2025 1:18 pm
 tags: [needsDetail, needsRevision]
 ---
 
 # Elevator Pitch
 
-NEEDS MORE DETAIL
+#needsDetail 
 - Mention ecology?
 - Make more solarpunk?
 
-NEEDS REVISION
+#needsRevision 
 - Copyediting
 - Word choice
-- 
 
 ## Starship Odyssey Elevator Pitch
 

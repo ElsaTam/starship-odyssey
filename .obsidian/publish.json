@@ -1,0 +1,11 @@
+{
+  "siteId": "6441b38d9db467d0ae14a89478d70e08",
+  "host": "publish-01.obsidian.md",
+  "included": [],
+  "excluded": [
+    "08 - Utilities/Attachments",
+    "08 - Utilities/Attachments/Files",
+    "09 - Creator Notes/Resources/Files",
+    "09 - Creator Notes/Community Building/Blog"
+  ]
+}

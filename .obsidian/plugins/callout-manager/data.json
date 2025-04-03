@@ -1,0 +1,39 @@
+{
+  "callouts": {
+    "custom": [
+      "star",
+      "secret"
+    ],
+    "settings": {
+      "info": [
+        {
+          "changes": {
+            "icon": "lucide-book-open",
+            "color": "253, 199, 0"
+          }
+        }
+      ],
+      "star": [
+        {
+          "changes": {
+            "icon": "lucide-star",
+            "color": "255, 171, 1"
+          }
+        }
+      ],
+      "secret": [
+        {
+          "changes": {
+            "icon": "lucide-message-circle-warning",
+            "color": "226, 36, 0"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}
