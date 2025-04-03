@@ -3,14 +3,14 @@ aliases: [What is PbtA?]
 author:
   - Vincent Baker
 created: Mar 19, 2025 9:47 am
-modified: Mar 19, 2025 11:24 am
+modified: Apr 03, 2025 12:59 pm
 published: 2023-11-23
 source: https://lumpley.games/2023/11/22/what-is-pbta/
 tags: [clippings, PbtA]
 title: What is PbtA? – lumpley games
 ---
 
-# PbtA Description
+# [What is PbtA?](https://lumpley.games/2023/11/22/what-is-pbta/)
 
 PbtA stands for “Powered by the Apocalypse.” It means games inspired by our original game Apocalypse World, and now games inspired by other PbtA games more generally. It’s a self-applied label: because it depends on a game’s inspirations, only the game’s creator can really tell you whether their game’s PbtA or not.
 

@@ -2,14 +2,14 @@
 author:
   - Vincent Baker
 created: Mar 19, 2025 9:51 am
-modified: Mar 19, 2025 10:12 pm
+modified: Apr 03, 2025 1:01 pm
 published: 2020-01-01
 source: https://lumpley.games/2019/12/30/powered-by-the-apocalypse-part-1/
 tags: [clippings, PbtA]
 title: Powered by the Apocalypse, part 1 – lumpley games
 ---
 
-# PbtA Philosophy & Foundation
+# [PbtA Philosophy & Foundation](https://lumpley.games/2019/12/30/powered-by-the-apocalypse-part-1/)
 
 ## *Using Apocalypse World to Outline and Draft Your Own RPG*
 

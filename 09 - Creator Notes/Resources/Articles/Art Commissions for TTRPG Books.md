@@ -2,13 +2,13 @@
 author:
   - "[[The Collective Endeavour]]"
 created: Mar 19, 2025 11:17 am
-modified: Mar 19, 2025 10:15 pm
+modified: Apr 03, 2025 12:58 pm
 source: https://collective-endeavour.com/articles/buyingart/
 tags: [clippings, commissioningArt]
 title: Buying art - The Collective Endeavour
 ---
 
-# Buying Art for TTRPG Books
+# [Buying Art for TTRPG Books](https://collective-endeavour.com/articles/buyingart/)
 
 About the author: I'm Jon Hodgson, a UK freelance artist. I work primarily for Games Workshop on their Warhammer Historical line, and I do stuff for Wizards on D&D. But also I try to keep my hand in with the indies - I did a bunch of stuff for Dust Devils, and I've recently done a cover for Ron Edwards' Spione project. I live in Falkirk.
 

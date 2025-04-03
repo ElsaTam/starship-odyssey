@@ -3,14 +3,14 @@ author:
   - "[[dankoboldt]]"
   - worldbuilding
 created: Mar 24, 2025 1:20 pm
-modified: Mar 24, 2025 1:22 pm
+modified: Apr 03, 2025 12:59 pm
 published: 2014-09-04
 source: http://dankoboldt.com/developing-fantasy-cultures/
 tags: [clippings, FactInFantasy, ScienceInSF]
 title: "On Dothraki and House Elves: Developing Fantasy Cultures"
 ---
 
-# Cultural Worldbuilding
+# [Cultural Worldbuilding](http://dankoboldt.com/developing-fantasy-cultures/)
 
 [![developing fantasy cultures in writing](http://dankoboldt.com/wp-content/uploads/2014/09/developing-fantasy-cultures.jpg)](http://dankoboldt.com/wp-content/uploads/2014/09/developing-fantasy-cultures.jpg) This article is part of the **[Science in Sci-fi, Fact in Fantasy](http://dankoboldt.com/science-in-scifi/ "Science in Sci-Fi")** blog series. Each week, we tackle one of the scientific or technological concepts pervasive in sci-fi (space travel, genetic engineering, artificial intelligence, etc.) with input from an expert.
 

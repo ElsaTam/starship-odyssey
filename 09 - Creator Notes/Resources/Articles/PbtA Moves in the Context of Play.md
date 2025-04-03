@@ -1,14 +1,14 @@
 ---
 author: 
 created: Mar 21, 2025 2:05 pm
-modified: Mar 26, 2025 11:18 am
+modified: Apr 03, 2025 1:00 pm
 published: 2020-08-03
 source: https://lumpley.games/2020/07/12/powered-by-the-apocalypse-part-5/
 tags: [clippings, PbtA]
 title: Powered by the Apocalypse, part 5 – lumpley games
 ---
 
-# PbtA Moves in the Context of Play
+# [PbtA Moves in the Context of Play](https://lumpley.games/2020/07/12/powered-by-the-apocalypse-part-5/)
 
 ## Using Apocalypse World to Outline and Draft Your Own RPG
 

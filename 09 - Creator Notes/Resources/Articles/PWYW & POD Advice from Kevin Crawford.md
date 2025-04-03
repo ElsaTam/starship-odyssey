@@ -3,14 +3,14 @@ author:
   - Chaosmeister.Games
   - Kevin Crawford
 created: Mar 23, 2025 11:18 am
-modified: Mar 23, 2025 12:57 pm
+modified: Apr 03, 2025 1:01 pm
 published: 2019-01-15
 source: https://chaosmeister.wordpress.com/2019/01/15/taking-notes-from-kevin-crawford/
 tags: [clippings, POD, publishing, PWYW]
 title: Taking notes from Kevin Crawford
 ---
 
-# PWYW Advice from Kevin Crawford
+# [PWYW Advice from Kevin Crawford](https://chaosmeister.wordpress.com/2019/01/15/taking-notes-from-kevin-crawford/)
 
 After I posted my review for the year with a look at PWYW vs fixed price I posted it on G+ and was lucky enough that Kevin Crawford from [Sin Nomine Publishing](https://sinenominepublishing.com/) and [Stars without Number](https://www.drivethrurpg.com/product/226996/Stars-Without-Number-Revised-Edition) fame dropped by and shared some advice. I highly respect the man and what he has accomplished in the last few years, so better sit up and listen when he has something to say. He knows his stuff. I asked him if I could reblog his thoughts so they are not lost when G+ goes away. He graciously agreed, so here they are:
 

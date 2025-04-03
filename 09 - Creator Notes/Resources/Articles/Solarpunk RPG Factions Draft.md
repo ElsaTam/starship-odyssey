@@ -2,14 +2,14 @@
 author:
   - "[[Pawel Ngei]]"
 created: Mar 24, 2025 11:37 am
-modified: Mar 24, 2025 11:39 am
+modified: Apr 03, 2025 1:01 pm
 published: 2022-08-15
 source: https://alxd.org/solarpunk-rpg-factions.html
 tags: [clippings, solarpunk]
 title: Solarpunk RPG Factions Draft
 ---
 
-# Solarpunk RPG Factions Draft
+# [Solarpunk RPG Factions Draft](https://alxd.org/solarpunk-rpg-factions.html)
 
 ![Alto's Adventure Concept Art](https://alxd.org/images/39_solarpunk_rpg_factions/alto.jpg) [Alto's Adventure concept Art CC-BY-SA 3.0 Ryan Cash](https://commons.wikimedia.org/wiki/File:Alto%27s_Adventure_concept_art_-_04_Characters_Sketch.png)
 

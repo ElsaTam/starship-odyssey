@@ -2,15 +2,13 @@
 author:
   - "[[World Anvil]]"
 created: Mar 23, 2025 1:09 pm
-modified: Mar 23, 2025 1:14 pm
+modified: Apr 03, 2025 12:58 pm
 source: https://www.worldanvil.com/agile-worldbuilding
 tags: [agile, clippings, worldbuilding]
 title: Worldbuilding and RPG Campaign Management
 ---
 
-# Agile Worldbuilding Method
-
-## Agile Worldbuilding
+# [Agile Worldbuilding Method](https://www.worldanvil.com/agile-worldbuilding)
 
 ## What is Agile Worldbuilding?
 
@@ -33,4 +31,4 @@ Dimitris and Janet are working on an Agile Worldbuilding Guide Book, expected 20
 
 In the meantime, learn more about Agile Worldbuilding for GMs in this seminar:
 
-![](https://www.youtube.com/watch?v=EJwM0nMugwc)\>
+![](https://www.youtube.com/watch?v=EJwM0nMugwc)

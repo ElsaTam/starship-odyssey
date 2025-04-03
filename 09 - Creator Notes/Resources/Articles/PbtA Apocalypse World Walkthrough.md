@@ -2,14 +2,14 @@
 author:
   - Vincent Baker
 created: Mar 21, 2025 12:49 pm
-modified: Mar 23, 2025 9:18 pm
+modified: Apr 03, 2025 12:59 pm
 published: 2020-04-21
 source: https://lumpley.games/2020/03/14/powered-by-the-apocalypse-part-3/
 tags: [clippings, PbtA]
 title: Powered by the Apocalypse, Part 3 – lumpley games
 ---
 
-# PbtA Apocalypse World Walkthrough
+# [PbtA Apocalypse World Walkthrough](https://lumpley.games/2020/03/14/powered-by-the-apocalypse-part-3/)
 
 ## Using Apocalypse World to Outline and Draft Your Own RPG
 

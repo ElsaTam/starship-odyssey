@@ -1,14 +1,14 @@
 ---
 author: 
 created: Mar 21, 2025 12:43 pm
-modified: Mar 21, 2025 12:48 pm
+modified: Apr 03, 2025 1:00 pm
 published: 2020-02-29
 source: https://lumpley.games/2020/02/29/powered-by-the-apocalypse-part-2/
 tags: [clippings, PbtA]
 title: Powered by the Apocalypse, part 2 – lumpley games
 ---
 
-# PbtA - Process for Designing a PbtA Inspired Game
+# [PbtA - Process for Designing a PbtA Inspired Game](https://lumpley.games/2020/02/29/powered-by-the-apocalypse-part-2/)
 
 ## Using Apocalypse World to Outline and Draft Your Own RPG
 

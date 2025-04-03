@@ -1,14 +1,14 @@
 ---
 author: 
 created: Mar 21, 2025 2:06 pm
-modified: Mar 21, 2025 2:06 pm
+modified: Apr 03, 2025 1:00 pm
 published: 2021-07-31
 source: "https://lumpley.games/2021/07/30/powered-by-the-apocalypse-part-8-6-tricks-for-drafting-moves/"
 tags: ["clippings"]
 title: "Powered by the Apocalypse, Part 8: 6 Tricks for Drafting Moves – lumpley games"
 ---
 
-# PbtA Moves Drafting Process
+# [PbtA Moves Drafting Process](https://lumpley.games/2021/07/30/powered-by-the-apocalypse-part-8-6-tricks-for-drafting-moves/)
 
 *Using Apocalypse World to Outline and Draft Your Own RPG*
 

@@ -9,7 +9,7 @@ modified: Apr 03, 2025 11:59 am
 
 By MegaCon next year, mid-March 2026, we'd like to have a 32-page primer published and available as both a .pdf and a print-on-demand softcover book through DriveThruRPG. It will be printed in standard colors, softcover, and 8.5" x 11". We are considering also crossposting the .pdf to itch.io.
 
-The reason that we are aiming for 32 pages is that, according to [[Starship Odyssey/09 - Creator Notes/Resources/PWYW & POD Advice from Kevin Crawford|PWYW & POD Advice from Kevin Crawford]], that's where the pricing for print-on-demand becomes reasonable.
+The reason that we are aiming for 32 pages is that, according to [[PWYW & POD Advice from Kevin Crawford|PWYW & POD Advice from Kevin Crawford]], that's where the pricing for print-on-demand becomes reasonable.
 
 These 32 pages will include material for both players and GMs. My current idea is have the primer as an in-universe document, at least the player section. In lore, this would be published by the *Starship Odyssey* and distributed off-ship to find people to join the cohort of new arrivals allowed every 5 years.
 
