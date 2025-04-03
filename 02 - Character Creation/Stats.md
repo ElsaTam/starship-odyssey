@@ -1,7 +1,9 @@
 ---
 aliases: [stat, Stat]
 created: Mar 21, 2025 12:34 pm
-modified: Apr 02, 2025 10:55 am
+githubIssues:
+  - "02"
+modified: Apr 02, 2025 9:28 pm
 tags: [firstDraftComplete]
 ---
 

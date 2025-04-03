@@ -1,6 +1,8 @@
 ---
 created: Apr 02, 2025 9:54 am
-modified: Apr 02, 2025 12:46 pm
+githubIssues:
+  - "13"
+modified: Apr 02, 2025 9:29 pm
 tags: [needsDetail, needsRevision]
 ---
 

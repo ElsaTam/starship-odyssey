@@ -1,7 +1,10 @@
 ---
 aliases: [GM Agenda, GM Moves, GM Principles]
 created: Mar 24, 2025 11:43 am
-modified: Apr 02, 2025 10:55 am
+githubIssues:
+  - "03"
+  - "20"
+modified: Apr 02, 2025 9:34 pm
 tags: [needsWriting]
 ---
 

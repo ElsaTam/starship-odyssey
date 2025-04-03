@@ -1,6 +1,9 @@
 ---
 created: Mar 21, 2025 8:04 am
-modified: Apr 02, 2025 10:54 am
+githubIssues:
+  - "01"
+  - "17"
+modified: Apr 02, 2025 9:27 pm
 tags: [needsWriting]
 ---
 

@@ -1,7 +1,11 @@
 ---
 aliases: [Zypherian]
 created: Apr 02, 2025 12:29 pm
-modified: Apr 02, 2025 4:04 pm
+githubIssues:
+  - "05"
+  - "10"
+  - "16"
+modified: Apr 02, 2025 9:27 pm
 tags: [needsWriting]
 ---
 

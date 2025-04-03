@@ -1,9 +1,9 @@
 ---
 created: Apr 02, 2025 8:52 pm
 githubIssues:
-  - "#11"
-  - "#19"
-modified: Apr 02, 2025 8:59 pm
+  - "11"
+  - "19"
+modified: Apr 02, 2025 9:28 pm
 tags: [needsDetail]
 ---
 
