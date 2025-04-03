@@ -3,13 +3,13 @@ created: Mar 21, 2025 8:04 am
 githubIssues:
   - "01"
   - "17"
-modified: Apr 02, 2025 9:27 pm
+modified: Apr 03, 2025 12:21 pm
 tags: [needsWriting]
 ---
 
 # Basic Moves
 
-NEED TO BE FULLY WRITTEN
+#needsWriting 
 
 ## What Are Basic Moves
 

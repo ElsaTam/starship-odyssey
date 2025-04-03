@@ -3,12 +3,13 @@ created: Apr 02, 2025 8:11 pm
 githubIssues:
   - "11"
   - "19"
-modified: Apr 02, 2025 9:29 pm
+modified: Apr 03, 2025 12:22 pm
 tags: [needsWriting]
 ---
 
 # Midbrain Sector
 
+#needsWriting 
 - reflex, instinct
 - sensory focused
 - weird sights and sounds to stimulate you

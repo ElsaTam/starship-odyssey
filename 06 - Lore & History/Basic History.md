@@ -2,15 +2,15 @@
 created: Apr 02, 2025 9:54 am
 githubIssues:
   - "13"
-modified: Apr 02, 2025 9:29 pm
+modified: Apr 03, 2025 12:23 pm
 tags: [needsDetail, needsRevision]
 ---
 
 # Basic History
 
-NEEDS REVISION  
+#needsRevision 
 
-NEEDS MORE DETAIL
+#needsDetail 
 
 ## Departure and Earth's Final Hours
 

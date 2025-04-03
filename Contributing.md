@@ -1,6 +1,6 @@
 ---
 created: Apr 02, 2025 4:29 pm
-modified: Apr 02, 2025 6:57 pm
+modified: Apr 03, 2025 12:17 pm
 ---
 
 # Starship Odyssey Development Note
@@ -9,7 +9,7 @@ Welcome to the Starship Odyssey. This readme should give you information on how 
 
 ## Tag Explanations
 
-For this project, writing status is tracked in the Markdown files via tags in combination with GitHub Issues. Here's an explanation of each of the tags.
+For this project, writing status is tracked in the Markdown files via tags in combination with [GitHub Issues](https://github.com/ChaseTramel/starship-odyssey/issues). Here's an explanation of each of the tags.
 
 `needsWriting` : The note or portions of it include **significant gaps** that are not at all written or just bullet points.
 

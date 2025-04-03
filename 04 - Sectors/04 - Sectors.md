@@ -3,13 +3,14 @@ created: Apr 02, 2025 8:52 pm
 githubIssues:
   - "11"
   - "19"
-modified: Apr 02, 2025 9:28 pm
+modified: Apr 03, 2025 12:24 pm
 tags: [needsDetail]
 ---
 
 # Sectors of Starship Odyssey
 
-NEEDS DETAILS
+#needsDetail 
+
 - In this note, section needs a brief description of what it looks like, what's there, etc. 
 - every sector has rec centers, dining halls, bathrooms, hallways
 - This needs to be done for the pre-alpha release

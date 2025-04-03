@@ -3,11 +3,13 @@ created: Apr 02, 2025 7:50 pm
 githubIssues:
   - "11"
   - "19"
-modified: Apr 02, 2025 9:28 pm
+modified: Apr 03, 2025 12:22 pm
 tags: [needsWriting]
 ---
 
 # Forebrain Sector
+
+#needsWriting 
 
 - knowledge governance, innonvation
 - gold light, classical and neo-classical architecture?

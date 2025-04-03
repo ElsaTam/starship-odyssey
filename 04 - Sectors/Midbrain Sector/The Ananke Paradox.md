@@ -2,11 +2,13 @@
 created: Apr 02, 2025 8:27 pm
 githubIssues:
   - laterMilestone
-modified: Apr 02, 2025 9:29 pm
+modified: Apr 03, 2025 12:23 pm
 tags: [needsWriting]
 ---
 
 # The Ananke Paradox
+
+#needsWriting 
 
 - Managed by both the [[Hephaestus Forge]] and [[Muses' Collective]]
 - rec center in [[Midbrain Sector]]

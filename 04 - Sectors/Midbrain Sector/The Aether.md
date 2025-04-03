@@ -2,11 +2,13 @@
 created: Apr 02, 2025 8:37 pm
 githubIssues:
   - laterMilestone
-modified: Apr 02, 2025 9:29 pm
+modified: Apr 03, 2025 12:23 pm
 tags: [needsWriting]
 ---
 
 # The Aether
+
+#needsWriting 
 
 - rec center managed by [[Ethereon Subcommittee]] of the [[Atlas Council]]
 - located in the [[Midbrain Sector]]

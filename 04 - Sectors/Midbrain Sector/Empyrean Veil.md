@@ -2,11 +2,13 @@
 created: Apr 02, 2025 8:33 pm
 githubIssues:
   - laterMilestone
-modified: Apr 02, 2025 9:29 pm
+modified: Apr 03, 2025 12:23 pm
 tags: [needsWriting]
 ---
 
 # Empyrean Veil
+
+#needsWriting 
 
 - Residential area of the [[Ethereons]]
 - managed by the [[Ethereon Subcommittee]] of the [[Atlas Council]]

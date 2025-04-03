@@ -2,16 +2,16 @@
 created: Apr 02, 2025 10:15 am
 githubIssues:
   - laterMilestone
-modified: Apr 02, 2025 9:18 pm
+modified: Apr 03, 2025 12:21 pm
 tags: [needsDetail, needsRevision]
 ---
 
 # Lotus (substance)
 
-NEEDS REVISION
+#needsRevision 
 - Think about revising human only-quarter details.
 
-NEEDS MORE DETAIL
+#needsDetail 
 - Add detail that Health & Wellness Committee discourages use and publishes propaganda.
 - Add detail that many people who advice conforming to the cultural stands of the [[Interspecies Committee]] use lotus to feel authentic and free.
 

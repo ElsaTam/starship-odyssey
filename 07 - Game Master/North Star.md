@@ -3,11 +3,13 @@ aliases: [Apollonian-Dionysian, Core Theme, Theme]
 created: Mar 18, 2025 7:57 pm
 githubIssues:
   - laterMilestone
-modified: Apr 02, 2025 9:35 pm
+modified: Apr 03, 2025 12:24 pm
 tags: [firstDraftComplete]
 ---
 
 # North Star
+
+#firstDraftComplete 
 
 > [!star] Apollonian-Dionysian Drives
 > The core theme of the Starship Odyssey setting is the eternal struggle between the forces that support the Apollonian, representing order, structure, stability, and those that embrace the Dionysian, representing chaos, exploration, and creativity.
