@@ -4,16 +4,11 @@ created: Mar 24, 2025 11:43 am
 githubIssues:
   - "03"
   - "20"
-modified: Apr 02, 2025 9:34 pm
+modified: Apr 03, 2025 12:00 pm
 tags: [needsWriting]
 ---
 
 # Master of Ceremonies
-
-NEED TO BE WRITTEN
-```table-of-contents
-minLevel: 2
-```
 
 ## Agenda
 

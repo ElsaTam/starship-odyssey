@@ -1,13 +1,9 @@
 ---
 created: Apr 03, 2025 7:23 am
-modified: Apr 03, 2025 7:58 am
+modified: Apr 03, 2025 11:59 am
 ---
 
 # One Year Plan
-
-```table-of-contents
-minLevel: 2
-```
 
 ## Scope
 
