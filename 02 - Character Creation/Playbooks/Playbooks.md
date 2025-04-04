@@ -3,7 +3,7 @@ created: Mar 19, 2025 4:13 pm
 githubIssues:
   - "04"
   - "15"
-modified: Apr 04, 2025 1:41 pm
+modified: Apr 04, 2025 1:51 pm
 tags: [needsDetail, needsRevision, needsWriting]
 ---
 
@@ -37,7 +37,7 @@ Introduction paragraph
 #needsRevision 
 
 - **Technology:** Technology is more than hardware and code on the Odyssey. Technologists bend reality to their will using machines, algorithms, and engineered systems. They don't just use machines, but instead become symbiotic with them.
-- **Magical Energy:** The cosmic power discovered in deep space is beyond current understanding, but Magicians who work with it weave themselves into the celestial narrative. Magic is nolonger superstition, but instead an ancient wellspring that resonates with special individuals.
+- **Magical Energy:** The cosmic power discovered in deep space is beyond current understanding, but Magicians who work with it weave themselves into the celestial narrative. Magic is no longer superstition, but instead an ancient wellspring that resonates with special individuals.
 - **Xenology:** This field is the study and lived experience of the alien. This method draws on the biological, cultural, and metaphysical insight of species different from one's own. Xenologists rely on developing a deep understanding of what is strange to them.
 
 ### Playbooks in Context
@@ -49,3 +49,5 @@ Introduction paragraph
 | **Volition**   | [[Trigger Happy Sentinel]] | [[Astromystic]]  | [[Galactic Ascetic]]     |
 | **Agency**     | [[Dark Matter Navigator]]  | [[Magi-Artist]]  | [[Xenochron Guide]]      |
 | **Mutability** | [[Nanoweaver]]             | [[Technomancer]] | [[Exobiology Ecologist]] |
+
+List of playbooks with short explanations here?

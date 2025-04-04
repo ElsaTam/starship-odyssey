@@ -2,7 +2,7 @@
 created: Apr 02, 2025 9:54 am
 githubIssues:
   - "13"
-modified: Apr 03, 2025 12:23 pm
+modified: Apr 04, 2025 5:00 pm
 tags: [needsDetail, needsRevision]
 ---
 
@@ -10,11 +10,15 @@ tags: [needsDetail, needsRevision]
 
 #needsRevision 
 
+- May need rewriting after [[Quantum Cascade]] and [[The Development of the Starship]] are more detailed.
+
 #needsDetail 
+
+- Years 8 through 28 have no details.
 
 ## Departure and Earth's Final Hours
 
-52 years ago, the Starship Odyssey departed Earth under life-or-death circumstances. Envisioned as an ambitious, long-term interspecies experiment, the threat of the Quantum Cascade sped up construction by necessity. Reckless experiments by Earth's most powerful governments triggered this phenomenon. In the end, it caused reality fractures, rendering Earth uninhabitable within a year.
+52 years ago, the Starship Odyssey departed Earth under life-or-death circumstances. Envisioned as an ambitious, long-term interspecies experiment, the threat of the [[Quantum Cascade]] sped up construction by necessity. Reckless experiments by Earth's most powerful governments triggered this phenomenon. In the end, it caused reality fractures, rendering Earth uninhabitable within a year.
 
 From the outset, the Odyssey hosted many alien species, including [[Oltori]], [[Gelarites]], [[Zypherians]], [[Voraxoids]], and [[Ethereons]]. Each species brought their unique perspectives, skills, and cultural practices. The multinational, multi-species scientific body overseeing the project, the [[Atlas Council]], used temporal manipulation tools provided by the [[Hephaestus Forge]] to speed up the completion of the ship.
 
