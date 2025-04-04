@@ -3,7 +3,7 @@ created: Apr 02, 2025 8:11 pm
 githubIssues:
   - "11"
   - "19"
-modified: Apr 03, 2025 6:47 pm
+modified: Apr 04, 2025 5:04 pm
 tags: [needsWriting]
 ---
 
@@ -32,4 +32,3 @@ tags: [needsWriting]
 - [[The Ananke Paradox]], even weirder rec centermanaged by both the [[Hephaestus Forge]] and the [[Muses' Collective]]
 - [[Empyrean Veil]] residential area of the [[Ethereons]]
 - [[The Aether]], spiritual space managed by the [[Ethereon Subcommittee]] of the [[Atlas Council]]
-- [[Aeolian Spires]], residential area of the [[Zypherians]]
